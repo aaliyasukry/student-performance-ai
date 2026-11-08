@@ -1,0 +1,69 @@
+{
+    "purpose": "Convert frozen model outputs into teacher-facing decision-support signals.",
+    "model_modified": false,
+    "academic_risk": {
+        "benchmark_mark": 40.0,
+        "categories": {
+            "HIGH_RISK": "prediction < 40.0",
+            "NEEDS_ATTENTION": "40.0 <= prediction < 50.0",
+            "ON_TRACK": "50.0 <= prediction < 75.0",
+            "HIGH_PERFORMER": "prediction >= 75.0"
+        },
+        "policy_note": "The 40-mark benchmark is grounded in the supplied school source sheets. Other presentation bands are V1 operational defaults and must remain configurable."
+    },
+    "trend": {
+        "threshold_marks": 3.0,
+        "IMPROVING": "trend >= +3.0",
+        "STABLE": "-3.0 < trend < +3.0",
+        "DECLINING": "trend <= -3.0",
+        "INSUFFICIENT_HISTORY": "trend unavailable"
+    },
+    "attendance_context": {
+        "used_by_prediction_model": false,
+        "GOOD": "attendance >= 90.0%",
+        "MONITOR": "80.0% <= attendance < 90.0%",
+        "CONCERN": "attendance < 80.0%",
+        "PARTIAL_DATA": "attendance coverage < 80.0%",
+        "UNAVAILABLE": "attendance unavailable"
+    },
+    "prediction_reliability": {
+        "basis": "Final held-out subject performance and final-test sample support.",
+        "HIGH": {
+            "minimum_rows": 20,
+            "minimum_r2": 0.7,
+            "maximum_mae": 10.0,
+            "display_policy": "SHOW"
+        },
+        "MODERATE": {
+            "minimum_rows": 20,
+            "minimum_r2": 0.4,
+            "maximum_mae": 15.0,
+            "display_policy": "SHOW"
+        },
+        "LOW": {
+            "definition": "Sufficient held-out sample but performance below moderate thresholds.",
+            "display_policy": "SHOW_WITH_CAUTION"
+        },
+        "INSUFFICIENT_DATA": {
+            "definition": "fewer than 20 held-out subject observations, or unusable evaluation metrics",
+            "display_policy": "SUPPRESS_BY_DEFAULT"
+        },
+        "important_note": "Prediction reliability is not an individual probability and must not be called confidence."
+    },
+    "shap_explanation": {
+        "purpose": "Explain why a frozen model prediction was pushed higher or lower.",
+        "positive": "pushes prediction higher",
+        "negative": "pushes prediction lower",
+        "not_used_for": [
+            "confidence score",
+            "prediction reliability",
+            "causal claim"
+        ]
+    },
+    "ui_separation": {
+        "academic_risk": "How concerning the predicted academic outcome is.",
+        "prediction_reliability": "How strong the held-out evidence is for predictions of this type.",
+        "attendance_context": "Historical attendance information shown to the teacher but not used by the final forecasting model.",
+        "why_this_prediction": "Human-readable SHAP factors."
+    }
+}

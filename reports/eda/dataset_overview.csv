@@ -1,0 +1,8 @@
+metric,value
+full_dataset_rows,1412
+full_unique_students,349
+development_rows,1142
+development_unique_students,347
+holdout_rows,270
+holdout_unique_students,270
+subject_count,19

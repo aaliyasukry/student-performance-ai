@@ -1,0 +1,41 @@
+{
+    "stage": "15A",
+    "task": "overall_next_term_performance_regression",
+    "feature_set": "academic_history_only",
+    "random_state": 42,
+    "training_target_periods": [
+        "2025_T2",
+        "2025_T3"
+    ],
+    "validation_target_period": "2026_T1",
+    "protected_final_test_period": "2026_T2",
+    "train_rows": 573,
+    "validation_rows": 217,
+    "protected_final_test_rows": 268,
+    "model_feature_count": 108,
+    "attendance_features_used": false,
+    "final_test_used": false,
+    "excluded_subjects": [
+        "home_science",
+        "pts"
+    ],
+    "models": {
+        "Linear Regression": {
+            "type": "baseline_linear_regression"
+        },
+        "Random Forest": {
+            "n_estimators": 500,
+            "min_samples_split": 4,
+            "min_samples_leaf": 2,
+            "max_features": "sqrt"
+        },
+        "XGBoost": {
+            "n_estimators": 500,
+            "learning_rate": 0.03,
+            "max_depth": 4,
+            "min_child_weight": 3,
+            "subsample": 0.85,
+            "colsample_bytree": 0.85
+        }
+    }
+}

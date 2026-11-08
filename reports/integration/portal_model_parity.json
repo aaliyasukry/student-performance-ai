@@ -1,0 +1,49 @@
+{
+    "portal": {
+        "raw_result_rows": 17339,
+        "student_term_rows": 1412,
+        "unique_students": 348
+    },
+    "feature_contract": {
+        "overall_required_features": 108,
+        "overall_missing_features": [],
+        "subject_numeric_features": 17,
+        "subject_categorical_features": 1
+    },
+    "live_2026_t2": {
+        "overall": {
+            "rows": 268,
+            "mae": 4.200828149593484,
+            "rmse": 5.520509063042741,
+            "r2": 0.9147712792171772,
+            "within_10_pct": 93.28358208955224,
+            "mean_residual": 0.5359553034970833
+        },
+        "subject": {
+            "rows": 2912,
+            "mae": 9.913909103722224,
+            "rmse": 12.589885599130621,
+            "r2": 0.7129347640039417,
+            "within_10_pct": 59.065934065934066,
+            "mean_residual": 0.823012903679725
+        }
+    },
+    "research_2026_t2": {
+        "overall_rows": 268,
+        "overall_mae": 4.2008,
+        "overall_rmse": 5.5205,
+        "overall_r2": 0.9148,
+        "overall_within_10": 93.28,
+        "subject_rows": 2912,
+        "subject_mae": 9.9139,
+        "subject_rmse": 12.5899,
+        "subject_r2": 0.7129,
+        "subject_within_10": 59.07
+    },
+    "comparison": {
+        "overall_row_difference": 0,
+        "overall_mae_difference": 2.8149593483739466e-05,
+        "subject_row_difference": 0,
+        "subject_mae_difference": 9.103722224068633e-06
+    }
+}

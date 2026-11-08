@@ -1,0 +1,30 @@
+{
+    "validation_period": "2026_T1",
+    "protected_final_test_period": "2026_T2",
+    "final_test_used": false,
+    "overall": {
+        "leading_algorithm": "Random Forest",
+        "academic_only_mae": 4.335292874373354,
+        "academic_plus_attendance_mae": 4.322075034027656,
+        "attendance_mae_improvement": 0.013217840345698303,
+        "attendance_mae_improvement_pct": 0.30488921345617,
+        "bootstrap_95_ci": [
+            -0.03744383364159395,
+            0.0641992942623918
+        ],
+        "attendance_evidence": "NO_CLEAR_PAIRED_ADVANTAGE"
+    },
+    "subject": {
+        "leading_algorithm": "Random Forest",
+        "academic_only_mae": 10.70736386731904,
+        "academic_plus_attendance_mae": 10.658785736810508,
+        "attendance_mae_improvement": 0.04857813050853042,
+        "attendance_mae_improvement_pct": 0.4536889855476037,
+        "bootstrap_95_ci": [
+            -0.0055482310720195585,
+            0.10107335265027954
+        ],
+        "attendance_evidence": "NO_CLEAR_PAIRED_ADVANTAGE"
+    },
+    "selection_rule_note": "Final feature-set selection should consider validation accuracy, paired bootstrap evidence, generalisation, subject/grade stability, and implementation simplicity. The protected 2026 T2 test set must not be used to choose between feature configurations."
+}

@@ -1,0 +1,173 @@
+feature,display_label
+grade,Grade
+historical_mark_count_agriculture,Historical Mark Count Agriculture
+historical_mark_count_arabic_literature,Historical Mark Count Arabic Literature
+historical_mark_count_art,Historical Mark Count Art
+historical_mark_count_ce,Historical Mark Count Ce
+historical_mark_count_commerce,Historical Mark Count Commerce
+historical_mark_count_english,Historical Mark Count English
+historical_mark_count_english_literature,Historical Mark Count English Literature
+historical_mark_count_geography,Historical Mark Count Geography
+historical_mark_count_health_and_physical_education,Historical Mark Count Health And Physical Education
+historical_mark_count_history,Historical Mark Count History
+historical_mark_count_ict,Historical Mark Count Ict
+historical_mark_count_mathematics,Historical Mark Count Mathematics
+historical_mark_count_religion,Historical Mark Count Religion
+historical_mark_count_science,Historical Mark Count Science
+historical_mark_count_sinhala,Historical Mark Count Sinhala
+historical_mark_count_tamil,Historical Mark Count Tamil
+historical_mark_count_tamil_literature,Historical Mark Count Tamil Literature
+historical_mean_absent_subject_count,Historical mean absent-subject count
+historical_mean_average,Historical overall average
+historical_mean_mark_agriculture,Historical mean Agriculture mark
+historical_mean_mark_arabic_literature,Historical mean Arabic Literature mark
+historical_mean_mark_art,Historical mean Art mark
+historical_mean_mark_ce,Historical mean Ce mark
+historical_mean_mark_commerce,Historical mean Commerce mark
+historical_mean_mark_english,Historical mean English mark
+historical_mean_mark_english_literature,Historical mean English Literature mark
+historical_mean_mark_geography,Historical mean Geography mark
+historical_mean_mark_health_and_physical_education,Historical mean Health And Physical Education mark
+historical_mean_mark_history,Historical mean History mark
+historical_mean_mark_ict,Historical mean Ict mark
+historical_mean_mark_mathematics,Historical mean Mathematics mark
+historical_mean_mark_religion,Historical mean Religion mark
+historical_mean_mark_science,Historical mean Science mark
+historical_mean_mark_sinhala,Historical mean Sinhala mark
+historical_mean_mark_tamil,Historical mean Tamil mark
+historical_mean_mark_tamil_literature,Historical mean Tamil Literature mark
+historical_mean_not_taken_subject_count,Historical mean not-taken subject count
+historical_mean_subject_mark,Historical mean mark in this subject
+historical_std_average,Variation in historical overall performance
+historical_subject_mark_count,Number of historical marks in this subject
+history_term_count,Number of historical terms
+mark_trend_agriculture,Mark Trend Agriculture
+mark_trend_arabic_literature,Mark Trend Arabic Literature
+mark_trend_art,Mark Trend Art
+mark_trend_ce,Mark Trend Ce
+mark_trend_english,Mark Trend English
+mark_trend_english_literature,Mark Trend English Literature
+mark_trend_geography,Mark Trend Geography
+mark_trend_health_and_physical_education,Mark Trend Health And Physical Education
+mark_trend_history,Mark Trend History
+mark_trend_ict,Mark Trend Ict
+mark_trend_mathematics,Mark Trend Mathematics
+mark_trend_religion,Mark Trend Religion
+mark_trend_science,Mark Trend Science
+mark_trend_sinhala,Mark Trend Sinhala
+mark_trend_tamil,Mark Trend Tamil
+mark_trend_tamil_literature,Mark Trend Tamil Literature
+missingindicator_historical_mean_average,Missing-history indicator: Historical overall average
+missingindicator_historical_mean_mark_agriculture,Missing-history indicator: Historical mean Agriculture mark
+missingindicator_historical_mean_mark_arabic_literature,Missing-history indicator: Historical mean Arabic Literature mark
+missingindicator_historical_mean_mark_art,Missing-history indicator: Historical mean Art mark
+missingindicator_historical_mean_mark_ce,Missing-history indicator: Historical mean Ce mark
+missingindicator_historical_mean_mark_commerce,Missing-history indicator: Historical mean Commerce mark
+missingindicator_historical_mean_mark_english,Missing-history indicator: Historical mean English mark
+missingindicator_historical_mean_mark_english_literature,Missing-history indicator: Historical mean English Literature mark
+missingindicator_historical_mean_mark_geography,Missing-history indicator: Historical mean Geography mark
+missingindicator_historical_mean_mark_health_and_physical_education,Missing-history indicator: Historical mean Health And Physical Education mark
+missingindicator_historical_mean_mark_history,Missing-history indicator: Historical mean History mark
+missingindicator_historical_mean_mark_ict,Missing-history indicator: Historical mean Ict mark
+missingindicator_historical_mean_mark_mathematics,Missing-history indicator: Historical mean Mathematics mark
+missingindicator_historical_mean_mark_religion,Missing-history indicator: Historical mean Religion mark
+missingindicator_historical_mean_mark_science,Missing-history indicator: Historical mean Science mark
+missingindicator_historical_mean_mark_sinhala,Missing-history indicator: Historical mean Sinhala mark
+missingindicator_historical_mean_mark_tamil,Missing-history indicator: Historical mean Tamil mark
+missingindicator_historical_mean_mark_tamil_literature,Missing-history indicator: Historical mean Tamil Literature mark
+missingindicator_historical_mean_subject_mark,Missing-history indicator: Historical mean mark in this subject
+missingindicator_historical_std_average,Missing-history indicator: Variation in historical overall performance
+missingindicator_mark_trend_agriculture,Missing-history indicator: Mark Trend Agriculture
+missingindicator_mark_trend_arabic_literature,Missing-history indicator: Mark Trend Arabic Literature
+missingindicator_mark_trend_art,Missing-history indicator: Mark Trend Art
+missingindicator_mark_trend_ce,Missing-history indicator: Mark Trend Ce
+missingindicator_mark_trend_english,Missing-history indicator: Mark Trend English
+missingindicator_mark_trend_english_literature,Missing-history indicator: Mark Trend English Literature
+missingindicator_mark_trend_geography,Missing-history indicator: Mark Trend Geography
+missingindicator_mark_trend_health_and_physical_education,Missing-history indicator: Mark Trend Health And Physical Education
+missingindicator_mark_trend_history,Missing-history indicator: Mark Trend History
+missingindicator_mark_trend_ict,Missing-history indicator: Mark Trend Ict
+missingindicator_mark_trend_mathematics,Missing-history indicator: Mark Trend Mathematics
+missingindicator_mark_trend_religion,Missing-history indicator: Mark Trend Religion
+missingindicator_mark_trend_science,Missing-history indicator: Mark Trend Science
+missingindicator_mark_trend_sinhala,Missing-history indicator: Mark Trend Sinhala
+missingindicator_mark_trend_tamil,Missing-history indicator: Mark Trend Tamil
+missingindicator_mark_trend_tamil_literature,Missing-history indicator: Mark Trend Tamil Literature
+missingindicator_performance_trend,Missing-history indicator: Overall performance trend
+missingindicator_prev_calculated_average,Missing-history indicator: Previous term overall average
+missingindicator_prev_mark_agriculture,Missing-history indicator: Previous Agriculture mark
+missingindicator_prev_mark_arabic_literature,Missing-history indicator: Previous Arabic Literature mark
+missingindicator_prev_mark_art,Missing-history indicator: Previous Art mark
+missingindicator_prev_mark_ce,Missing-history indicator: Previous Ce mark
+missingindicator_prev_mark_commerce,Missing-history indicator: Previous Commerce mark
+missingindicator_prev_mark_english,Missing-history indicator: Previous English mark
+missingindicator_prev_mark_english_literature,Missing-history indicator: Previous English Literature mark
+missingindicator_prev_mark_geography,Missing-history indicator: Previous Geography mark
+missingindicator_prev_mark_health_and_physical_education,Missing-history indicator: Previous Health And Physical Education mark
+missingindicator_prev_mark_history,Missing-history indicator: Previous History mark
+missingindicator_prev_mark_ict,Missing-history indicator: Previous Ict mark
+missingindicator_prev_mark_mathematics,Missing-history indicator: Previous Mathematics mark
+missingindicator_prev_mark_religion,Missing-history indicator: Previous Religion mark
+missingindicator_prev_mark_science,Missing-history indicator: Previous Science mark
+missingindicator_prev_mark_sinhala,Missing-history indicator: Previous Sinhala mark
+missingindicator_prev_mark_tamil,Missing-history indicator: Previous Tamil mark
+missingindicator_prev_mark_tamil_literature,Missing-history indicator: Previous Tamil Literature mark
+missingindicator_prev_subject_mark,Missing-history indicator: Previous mark in this subject
+missingindicator_subject_mark_trend,Missing-history indicator: Subject performance trend
+performance_trend,Overall performance trend
+prev_absent_agriculture,Prev Absent Agriculture
+prev_absent_arabic_literature,Prev Absent Arabic Literature
+prev_absent_art,Prev Absent Art
+prev_absent_ce,Prev Absent Ce
+prev_absent_english,Prev Absent English
+prev_absent_geography,Prev Absent Geography
+prev_absent_health_and_physical_education,Prev Absent Health And Physical Education
+prev_absent_history,Prev Absent History
+prev_absent_ict,Prev Absent Ict
+prev_absent_mathematics,Prev Absent Mathematics
+prev_absent_religion,Prev Absent Religion
+prev_absent_science,Prev Absent Science
+prev_absent_sinhala,Prev Absent Sinhala
+prev_absent_subject_count,Previous-term absent-subject count
+prev_absent_tamil,Prev Absent Tamil
+prev_calculated_average,Previous term overall average
+prev_mark_agriculture,Previous Agriculture mark
+prev_mark_arabic_literature,Previous Arabic Literature mark
+prev_mark_art,Previous Art mark
+prev_mark_ce,Previous Ce mark
+prev_mark_commerce,Previous Commerce mark
+prev_mark_english,Previous English mark
+prev_mark_english_literature,Previous English Literature mark
+prev_mark_geography,Previous Geography mark
+prev_mark_health_and_physical_education,Previous Health And Physical Education mark
+prev_mark_history,Previous History mark
+prev_mark_ict,Previous Ict mark
+prev_mark_mathematics,Previous Mathematics mark
+prev_mark_religion,Previous Religion mark
+prev_mark_science,Previous Science mark
+prev_mark_sinhala,Previous Sinhala mark
+prev_mark_tamil,Previous Tamil mark
+prev_mark_tamil_literature,Previous Tamil Literature mark
+prev_not_taken_agriculture,Prev Not Taken Agriculture
+prev_not_taken_arabic_literature,Prev Not Taken Arabic Literature
+prev_not_taken_art,Prev Not Taken Art
+prev_not_taken_commerce,Prev Not Taken Commerce
+prev_not_taken_english_literature,Prev Not Taken English Literature
+prev_not_taken_ict,Prev Not Taken Ict
+prev_not_taken_sinhala,Prev Not Taken Sinhala
+prev_not_taken_subject_count,Previous-term not-taken subject count
+prev_not_taken_tamil_literature,Prev Not Taken Tamil Literature
+prev_numeric_subject_count,Previous-term subjects with numeric marks
+prev_recorded_agriculture,Prev Recorded Agriculture
+prev_recorded_arabic_literature,Prev Recorded Arabic Literature
+prev_recorded_ce,Prev Recorded Ce
+prev_recorded_commerce,Prev Recorded Commerce
+prev_recorded_english_literature,Prev Recorded English Literature
+prev_recorded_geography,Prev Recorded Geography
+prev_recorded_health_and_physical_education,Prev Recorded Health And Physical Education
+prev_recorded_tamil_literature,Prev Recorded Tamil Literature
+prev_subject_absent,Previous-term absence for this subject
+prev_subject_mark,Previous mark in this subject
+prev_subject_not_taken,Previous-term subject not taken
+subject_mark_trend,Subject performance trend
+target_subject,Target subject

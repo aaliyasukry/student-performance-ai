@@ -1,0 +1,18 @@
+target_subject,display_subject,final_test_rows,final_test_mae,final_test_rmse,final_test_r2,within_10_marks_pct,prediction_reliability,display_policy,reliability_message
+english,English,260,8.269161623296622,10.435136160883605,0.8132485249692463,68.07692307692308,HIGH,SHOW,Held-out evaluation shows comparatively strong predictive performance for this subject.
+history,History,256,8.517501195913843,10.9748096720463,0.7283007390029619,67.578125,HIGH,SHOW,Held-out evaluation shows comparatively strong predictive performance for this subject.
+science,Science,256,8.58651619445872,10.819282483916576,0.7187549752783919,67.1875,HIGH,SHOW,Held-out evaluation shows comparatively strong predictive performance for this subject.
+religion,Religion,260,9.509109211797302,12.206558918252542,0.7058438074733373,62.69230769230769,HIGH,SHOW,Held-out evaluation shows comparatively strong predictive performance for this subject.
+health_and_physical_education,Health And Physical Education,197,8.796093785581519,11.197823474910383,0.5970174023785697,64.9746192893401,MODERATE,SHOW,"The prediction is usable for decision support, but subject-level error remains material."
+tamil,Tamil,263,9.104343149852076,11.150844761354742,0.6881937298215106,58.935361216730044,MODERATE,SHOW,"The prediction is usable for decision support, but subject-level error remains material."
+ce,Ce,193,10.105835927652578,13.112019063907402,0.6375552684683248,56.994818652849744,MODERATE,SHOW,"The prediction is usable for decision support, but subject-level error remains material."
+arabic_literature,Arabic Literature,32,10.24631924229444,13.34227264047745,0.4267869484360932,59.375,MODERATE,SHOW,"The prediction is usable for decision support, but subject-level error remains material."
+mathematics,Mathematics,259,10.353352102975137,12.958639130241188,0.712728657406678,56.37065637065637,MODERATE,SHOW,"The prediction is usable for decision support, but subject-level error remains material."
+geography,Geography,199,10.534001826455015,13.074061022948829,0.6583037305548547,55.27638190954774,MODERATE,SHOW,"The prediction is usable for decision support, but subject-level error remains material."
+sinhala,Sinhala,254,10.952351723748334,14.312516850540021,0.7055143205054033,53.54330708661418,MODERATE,SHOW,"The prediction is usable for decision support, but subject-level error remains material."
+ict,Ict,223,11.27288450242379,14.290217186568693,0.5029684160228625,54.7085201793722,MODERATE,SHOW,"The prediction is usable for decision support, but subject-level error remains material."
+art,Art,223,12.84992192688492,15.239714045631771,0.03309317614004337,41.25560538116592,LOW,SHOW_WITH_CAUTION,Held-out performance for this subject is weak. Use the forecast only as supporting information.
+agriculture,Agriculture,25,16.5018990550373,19.121436666689117,-0.17711651551957375,36.0,LOW,SHOW_WITH_CAUTION,Held-out performance for this subject is weak. Use the forecast only as supporting information.
+english_literature,English Literature,4,7.037316037135847,8.513731733727104,0.6389358503916716,75.0,INSUFFICIENT_DATA,SUPPRESS_BY_DEFAULT,Too few held-out observations are available to support a reliable subject-level forecast.
+commerce,Commerce,7,8.582374198019185,9.314248235269742,0.258890204110347,71.42857142857143,INSUFFICIENT_DATA,SUPPRESS_BY_DEFAULT,Too few held-out observations are available to support a reliable subject-level forecast.
+tamil_literature,Tamil Literature,1,22.902077404657547,22.902077404657547,,0.0,INSUFFICIENT_DATA,SUPPRESS_BY_DEFAULT,Too few held-out observations are available to support a reliable subject-level forecast.

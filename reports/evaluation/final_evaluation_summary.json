@@ -1,0 +1,117 @@
+{
+    "selection_locked_before_final_test": true,
+    "selected_algorithm": "Random Forest",
+    "selected_feature_set": "ACADEMIC_HISTORY_ONLY",
+    "selection_basis": {
+        "overall_attendance_bootstrap": {
+            "leading_algorithm": "Random Forest",
+            "academic_only_mae": 4.335292874373354,
+            "academic_plus_attendance_mae": 4.322075034027656,
+            "attendance_mae_improvement": 0.013217840345698303,
+            "attendance_mae_improvement_pct": 0.30488921345617,
+            "bootstrap_95_ci": [
+                -0.03744383364159395,
+                0.0641992942623918
+            ],
+            "attendance_evidence": "NO_CLEAR_PAIRED_ADVANTAGE"
+        },
+        "subject_attendance_bootstrap": {
+            "leading_algorithm": "Random Forest",
+            "academic_only_mae": 10.70736386731904,
+            "academic_plus_attendance_mae": 10.658785736810508,
+            "attendance_mae_improvement": 0.04857813050853042,
+            "attendance_mae_improvement_pct": 0.4536889855476037,
+            "bootstrap_95_ci": [
+                -0.0055482310720195585,
+                0.10107335265027954
+            ],
+            "attendance_evidence": "NO_CLEAR_PAIRED_ADVANTAGE"
+        },
+        "reason": "Attendance produced only marginal Random Forest validation improvements and the paired bootstrap confidence intervals crossed zero for both forecasting tasks. The simpler academic-only configuration was therefore selected before final-test evaluation."
+    },
+    "development_training_periods": [
+        "2025_T2",
+        "2025_T3",
+        "2026_T1"
+    ],
+    "final_out_of_time_test_period": "2026_T2",
+    "overall": {
+        "development_rows": 790,
+        "final_test_rows": 268,
+        "feature_count": 108,
+        "development_metrics": {
+            "rows": 790,
+            "mae": 1.6127807669165917,
+            "rmse": 2.460582395012091,
+            "median_absolute_error": 1.1576069848064527,
+            "p75_absolute_error": 2.1224109776835833,
+            "p90_absolute_error": 3.4187685084701043,
+            "max_absolute_error": 24.17713928786161,
+            "within_5_marks_pct": 96.20253164556962,
+            "within_10_marks_pct": 99.24050632911391,
+            "within_15_marks_pct": 99.74683544303798,
+            "mean_residual_actual_minus_predicted": 0.012670490252325266,
+            "predictions_below_0": 0,
+            "predictions_above_100": 0,
+            "r2": 0.9851086825552757
+        },
+        "final_test_metrics": {
+            "rows": 268,
+            "mae": 4.200828149593483,
+            "rmse": 5.520509063042741,
+            "median_absolute_error": 3.5325931500476955,
+            "p75_absolute_error": 5.763192953916903,
+            "p90_absolute_error": 8.843267439766613,
+            "max_absolute_error": 24.986773433304315,
+            "within_5_marks_pct": 64.92537313432835,
+            "within_10_marks_pct": 93.28358208955224,
+            "within_15_marks_pct": 98.50746268656717,
+            "mean_residual_actual_minus_predicted": -0.5359553034970833,
+            "predictions_below_0": 0,
+            "predictions_above_100": 0,
+            "r2": 0.9147712792171772
+        }
+    },
+    "subject": {
+        "development_rows": 8416,
+        "final_test_rows": 2912,
+        "numeric_feature_count": 17,
+        "categorical_features": [
+            "target_subject"
+        ],
+        "final_test_subject_count": 17,
+        "development_metrics": {
+            "rows": 8416,
+            "mae": 3.8738619605921527,
+            "rmse": 5.7461935131144015,
+            "median_absolute_error": 2.2667649707390822,
+            "p75_absolute_error": 5.641603978546087,
+            "p90_absolute_error": 9.611547973859059,
+            "max_absolute_error": 37.850318985996616,
+            "within_5_marks_pct": 71.32842205323195,
+            "within_10_marks_pct": 90.64876425855513,
+            "within_15_marks_pct": 97.18393536121674,
+            "mean_residual_actual_minus_predicted": 0.008079121401138247,
+            "predictions_below_0": 0,
+            "predictions_above_100": 0,
+            "r2": 0.9436452174678096
+        },
+        "final_test_metrics": {
+            "rows": 2912,
+            "mae": 9.913909103722224,
+            "rmse": 12.589885599130621,
+            "median_absolute_error": 8.255013390732126,
+            "p75_absolute_error": 14.261103128127207,
+            "p90_absolute_error": 20.668782740831883,
+            "max_absolute_error": 68.31706730039181,
+            "within_5_marks_pct": 31.902472527472526,
+            "within_10_marks_pct": 59.065934065934066,
+            "within_15_marks_pct": 76.99175824175825,
+            "mean_residual_actual_minus_predicted": -0.8230129036797248,
+            "predictions_below_0": 0,
+            "predictions_above_100": 0,
+            "r2": 0.7129347640039418
+        }
+    },
+    "post_test_rule": "The 2026 T2 final-test results are for final reporting only and must not be used to retune or reselect the model."
+}

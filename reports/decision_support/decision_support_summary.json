@@ -1,0 +1,153 @@
+{
+    "overall_prediction_reliability": "HIGH",
+    "subject_reliability_counts": {
+        "MODERATE": 8,
+        "HIGH": 4,
+        "INSUFFICIENT_DATA": 3,
+        "LOW": 2
+    },
+    "subject_reliability": [
+        {
+            "target_subject": "english",
+            "prediction_reliability": "HIGH",
+            "display_policy": "SHOW",
+            "final_test_rows": 260,
+            "final_test_mae": 8.269161623296622,
+            "final_test_r2": 0.8132485249692463
+        },
+        {
+            "target_subject": "history",
+            "prediction_reliability": "HIGH",
+            "display_policy": "SHOW",
+            "final_test_rows": 256,
+            "final_test_mae": 8.517501195913843,
+            "final_test_r2": 0.7283007390029619
+        },
+        {
+            "target_subject": "science",
+            "prediction_reliability": "HIGH",
+            "display_policy": "SHOW",
+            "final_test_rows": 256,
+            "final_test_mae": 8.58651619445872,
+            "final_test_r2": 0.7187549752783919
+        },
+        {
+            "target_subject": "religion",
+            "prediction_reliability": "HIGH",
+            "display_policy": "SHOW",
+            "final_test_rows": 260,
+            "final_test_mae": 9.509109211797302,
+            "final_test_r2": 0.7058438074733373
+        },
+        {
+            "target_subject": "health_and_physical_education",
+            "prediction_reliability": "MODERATE",
+            "display_policy": "SHOW",
+            "final_test_rows": 197,
+            "final_test_mae": 8.796093785581519,
+            "final_test_r2": 0.5970174023785697
+        },
+        {
+            "target_subject": "tamil",
+            "prediction_reliability": "MODERATE",
+            "display_policy": "SHOW",
+            "final_test_rows": 263,
+            "final_test_mae": 9.104343149852076,
+            "final_test_r2": 0.6881937298215106
+        },
+        {
+            "target_subject": "ce",
+            "prediction_reliability": "MODERATE",
+            "display_policy": "SHOW",
+            "final_test_rows": 193,
+            "final_test_mae": 10.105835927652578,
+            "final_test_r2": 0.6375552684683248
+        },
+        {
+            "target_subject": "arabic_literature",
+            "prediction_reliability": "MODERATE",
+            "display_policy": "SHOW",
+            "final_test_rows": 32,
+            "final_test_mae": 10.24631924229444,
+            "final_test_r2": 0.4267869484360932
+        },
+        {
+            "target_subject": "mathematics",
+            "prediction_reliability": "MODERATE",
+            "display_policy": "SHOW",
+            "final_test_rows": 259,
+            "final_test_mae": 10.353352102975137,
+            "final_test_r2": 0.712728657406678
+        },
+        {
+            "target_subject": "geography",
+            "prediction_reliability": "MODERATE",
+            "display_policy": "SHOW",
+            "final_test_rows": 199,
+            "final_test_mae": 10.534001826455015,
+            "final_test_r2": 0.6583037305548547
+        },
+        {
+            "target_subject": "sinhala",
+            "prediction_reliability": "MODERATE",
+            "display_policy": "SHOW",
+            "final_test_rows": 254,
+            "final_test_mae": 10.952351723748334,
+            "final_test_r2": 0.7055143205054033
+        },
+        {
+            "target_subject": "ict",
+            "prediction_reliability": "MODERATE",
+            "display_policy": "SHOW",
+            "final_test_rows": 223,
+            "final_test_mae": 11.27288450242379,
+            "final_test_r2": 0.5029684160228625
+        },
+        {
+            "target_subject": "art",
+            "prediction_reliability": "LOW",
+            "display_policy": "SHOW_WITH_CAUTION",
+            "final_test_rows": 223,
+            "final_test_mae": 12.84992192688492,
+            "final_test_r2": 0.03309317614004337
+        },
+        {
+            "target_subject": "agriculture",
+            "prediction_reliability": "LOW",
+            "display_policy": "SHOW_WITH_CAUTION",
+            "final_test_rows": 25,
+            "final_test_mae": 16.5018990550373,
+            "final_test_r2": -0.17711651551957375
+        },
+        {
+            "target_subject": "english_literature",
+            "prediction_reliability": "INSUFFICIENT_DATA",
+            "display_policy": "SUPPRESS_BY_DEFAULT",
+            "final_test_rows": 4,
+            "final_test_mae": 7.037316037135847,
+            "final_test_r2": 0.6389358503916716
+        },
+        {
+            "target_subject": "commerce",
+            "prediction_reliability": "INSUFFICIENT_DATA",
+            "display_policy": "SUPPRESS_BY_DEFAULT",
+            "final_test_rows": 7,
+            "final_test_mae": 8.582374198019185,
+            "final_test_r2": 0.258890204110347
+        },
+        {
+            "target_subject": "tamil_literature",
+            "prediction_reliability": "INSUFFICIENT_DATA",
+            "display_policy": "SUPPRESS_BY_DEFAULT",
+            "final_test_rows": 1,
+            "final_test_mae": 22.902077404657547,
+            "final_test_r2": NaN
+        }
+    ],
+    "principles": [
+        "Academic risk and prediction reliability are displayed separately.",
+        "Attendance is contextual information and is not represented as a final-model predictor.",
+        "SHAP explains model behaviour but is not used as confidence or reliability.",
+        "Low-support predictions must be clearly qualified or suppressed."
+    ]
+}

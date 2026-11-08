@@ -1,0 +1,47 @@
+{
+    "stage": "15B",
+    "task": "pooled_next_term_subject_regression",
+    "feature_set": "academic_history_only",
+    "training_target_periods": [
+        "2025_T2",
+        "2025_T3"
+    ],
+    "validation_target_period": "2026_T1",
+    "protected_final_test_period": "2026_T2",
+    "train_rows": 6387,
+    "validation_rows": 2029,
+    "protected_final_test_rows": 2912,
+    "training_subjects": 17,
+    "validation_subjects": 17,
+    "numeric_feature_count": 17,
+    "categorical_features": [
+        "target_subject"
+    ],
+    "attendance_features_used": false,
+    "final_test_used": false,
+    "small_subject_samples_retained": true,
+    "small_sample_evaluation_policy": {
+        "very_small_sample": "<10 validation rows",
+        "small_sample": "10-19 validation rows",
+        "adequate_for_descriptive_evaluation": ">=20 validation rows"
+    },
+    "models": {
+        "Linear Regression": {
+            "type": "pooled_linear_baseline"
+        },
+        "Random Forest": {
+            "n_estimators": 500,
+            "min_samples_split": 4,
+            "min_samples_leaf": 2,
+            "max_features": "sqrt"
+        },
+        "XGBoost": {
+            "n_estimators": 500,
+            "learning_rate": 0.03,
+            "max_depth": 4,
+            "min_child_weight": 3,
+            "subsample": 0.85,
+            "colsample_bytree": 0.85
+        }
+    }
+}

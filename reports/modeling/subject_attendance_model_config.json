@@ -1,0 +1,36 @@
+{
+    "stage": "16B",
+    "task": "pooled_next_term_subject_regression",
+    "experiment": "academic_history_plus_attendance",
+    "comparison_baseline": "academic_history_only",
+    "training_target_periods": [
+        "2025_T2",
+        "2025_T3"
+    ],
+    "validation_target_period": "2026_T1",
+    "protected_final_test_period": "2026_T2",
+    "train_rows": 6387,
+    "validation_rows": 2029,
+    "protected_final_test_rows": 2912,
+    "academic_feature_count": 17,
+    "attendance_feature_count": 9,
+    "categorical_features": [
+        "target_subject"
+    ],
+    "attendance_features": [
+        "prev_attendance_pct",
+        "historical_mean_attendance_pct",
+        "historical_std_attendance_pct",
+        "attendance_trend",
+        "prior_attendance_observation_count",
+        "prev_days_absent",
+        "historical_mean_days_absent",
+        "prev_attendance_coverage_pct",
+        "prev_attendance_available"
+    ],
+    "final_test_used": false,
+    "term_difficulty_context": {
+        "known_school_assumption": "Later terms may contain more difficult examinations.",
+        "manual_adjustment_applied": false
+    }
+}

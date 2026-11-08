@@ -1,0 +1,130 @@
+{
+    "method": "SHAP TreeExplainer",
+    "algorithm": "Random Forest",
+    "feature_set": "Academic/history only",
+    "explanation_period": "2026_T2",
+    "purpose": "Post-hoc explanation only",
+    "model_modified": false,
+    "overall": {
+        "rows_explained": 268,
+        "baseline_prediction": 49.37287338557364,
+        "top_10_features": [
+            {
+                "feature": "historical_mean_average",
+                "mean_absolute_shap": 2.1171952087050943,
+                "relative_importance_pct": 10.260241733183872
+            },
+            {
+                "feature": "prev_calculated_average",
+                "mean_absolute_shap": 1.5913922328148467,
+                "relative_importance_pct": 7.712122592124144
+            },
+            {
+                "feature": "historical_mean_mark_tamil",
+                "mean_absolute_shap": 1.3153680415921418,
+                "relative_importance_pct": 6.374468456828961
+            },
+            {
+                "feature": "historical_mean_mark_science",
+                "mean_absolute_shap": 1.2383198761672018,
+                "relative_importance_pct": 6.001081629243173
+            },
+            {
+                "feature": "prev_mark_tamil",
+                "mean_absolute_shap": 1.1242323578491282,
+                "relative_importance_pct": 5.448196608594363
+            },
+            {
+                "feature": "historical_mean_mark_religion",
+                "mean_absolute_shap": 1.031222363452524,
+                "relative_importance_pct": 4.997456392393466
+            },
+            {
+                "feature": "historical_mean_mark_history",
+                "mean_absolute_shap": 0.9831554691890998,
+                "relative_importance_pct": 4.764517099654486
+            },
+            {
+                "feature": "historical_mean_mark_english",
+                "mean_absolute_shap": 0.942396902964387,
+                "relative_importance_pct": 4.566995047628255
+            },
+            {
+                "feature": "prev_mark_science",
+                "mean_absolute_shap": 0.8662218040177869,
+                "relative_importance_pct": 4.197839229578138
+            },
+            {
+                "feature": "historical_mean_mark_mathematics",
+                "mean_absolute_shap": 0.8524496852921679,
+                "relative_importance_pct": 4.131097501313325
+            }
+        ]
+    },
+    "subject": {
+        "global_sample_rows": 1000,
+        "baseline_prediction": 49.867552043726235,
+        "top_10_features": [
+            {
+                "feature": "prev_subject_mark",
+                "mean_absolute_shap": 5.437486838846803,
+                "relative_importance_pct": 20.784351627551295
+            },
+            {
+                "feature": "historical_mean_subject_mark",
+                "mean_absolute_shap": 5.167607747515263,
+                "relative_importance_pct": 19.752760729512747
+            },
+            {
+                "feature": "historical_mean_average",
+                "mean_absolute_shap": 4.04526882196272,
+                "relative_importance_pct": 15.462711380369045
+            },
+            {
+                "feature": "target_subject",
+                "mean_absolute_shap": 3.8458488478910424,
+                "relative_importance_pct": 14.70044473301805
+            },
+            {
+                "feature": "prev_calculated_average",
+                "mean_absolute_shap": 3.3196341120581323,
+                "relative_importance_pct": 12.689031661999053
+            },
+            {
+                "feature": "subject_mark_trend",
+                "mean_absolute_shap": 0.788767932674123,
+                "relative_importance_pct": 3.0150013326216287
+            },
+            {
+                "feature": "prev_numeric_subject_count",
+                "mean_absolute_shap": 0.5806925269218493,
+                "relative_importance_pct": 2.219650000954247
+            },
+            {
+                "feature": "prev_absent_subject_count",
+                "mean_absolute_shap": 0.3874029874030693,
+                "relative_importance_pct": 1.4808164415634502
+            },
+            {
+                "feature": "historical_mean_absent_subject_count",
+                "mean_absolute_shap": 0.36245744916038514,
+                "relative_importance_pct": 1.3854641485389698
+            },
+            {
+                "feature": "performance_trend",
+                "mean_absolute_shap": 0.35850410870723265,
+                "relative_importance_pct": 1.3703528258788913
+            }
+        ]
+    },
+    "interpretation_rules": {
+        "positive_shap": "Pushes the prediction above the model baseline.",
+        "negative_shap": "Pushes the prediction below the model baseline.",
+        "mean_absolute_shap": "Measures average feature influence on the model prediction."
+    },
+    "limitations": [
+        "SHAP explains model behaviour but does not establish causality.",
+        "SHAP magnitude is not prediction confidence.",
+        "Prediction reliability must be based on held-out performance and sample size."
+    ]
+}

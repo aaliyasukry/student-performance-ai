@@ -1,0 +1,55 @@
+{
+    "stage": "16A",
+    "task": "overall_next_term_performance_regression",
+    "experiment": "academic_history_plus_attendance",
+    "comparison_baseline": "academic_history_only",
+    "random_state": 42,
+    "training_target_periods": [
+        "2025_T2",
+        "2025_T3"
+    ],
+    "validation_target_period": "2026_T1",
+    "protected_final_test_period": "2026_T2",
+    "train_rows": 573,
+    "validation_rows": 217,
+    "protected_final_test_rows": 268,
+    "academic_feature_count": 108,
+    "attendance_feature_count": 9,
+    "total_feature_count": 117,
+    "attendance_features": [
+        "attendance_trend",
+        "historical_mean_attendance_pct",
+        "historical_mean_days_absent",
+        "historical_std_attendance_pct",
+        "prev_attendance_available",
+        "prev_attendance_coverage_pct",
+        "prev_attendance_pct",
+        "prev_days_absent",
+        "prior_attendance_observation_count"
+    ],
+    "final_test_used": false,
+    "term_difficulty_context": {
+        "known_school_assumption": "Later terms may involve harder examinations.",
+        "included_as_predictor": false,
+        "reason": "Available longitudinal data does not contain enough repeated years to estimate a stable T1/T2/T3 difficulty effect without imposing an unsupported manual adjustment."
+    },
+    "models": {
+        "Linear Regression": {
+            "same_configuration_as_academic_baseline": true
+        },
+        "Random Forest": {
+            "n_estimators": 500,
+            "min_samples_split": 4,
+            "min_samples_leaf": 2,
+            "max_features": "sqrt"
+        },
+        "XGBoost": {
+            "n_estimators": 500,
+            "learning_rate": 0.03,
+            "max_depth": 4,
+            "min_child_weight": 3,
+            "subsample": 0.85,
+            "colsample_bytree": 0.85
+        }
+    }
+}

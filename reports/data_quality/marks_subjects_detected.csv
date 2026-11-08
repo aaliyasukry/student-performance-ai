@@ -1,0 +1,618 @@
+file_name,year,term,sheet_name,grade,class,academic_stage,column_letter,raw_subject,standard_subject,subject_group,is_optional
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6A,6,A,SECONDARY,P,PTS,PTS,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,E,Science,Science,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,I,History,History,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,K,CE,CE,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,N,Art,Art,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t1.xlsx,2025,1,6B,6,B,SECONDARY,P,PTS,PTS,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7A,7,A,SECONDARY,P,PTS,PTS,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,E,Science,Science,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,I,History,History,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,K,CE,CE,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,N,Art,Art,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t1.xlsx,2025,1,7B,7,B,SECONDARY,P,PTS,PTS,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,E,Science,Science,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,I,History,History,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,K,CE,CE,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,N,Art,Art,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8A,8,A,SECONDARY,P,PTS,PTS,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t1.xlsx,2025,1,8B,8,B,SECONDARY,P,PTS,PTS,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9A,9,A,SECONDARY,P,PTS,PTS,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t1.xlsx,2025,1,9B,9,B,SECONDARY,P,PTS,PTS,STANDARD,False
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,D,Tamil,Tamil,CORE,False
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,E,English,English,CORE,False
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,F,Maths,Mathematics,CORE,False
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,G,Science,Science,CORE,False
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,H,Religion,Religion,CORE,False
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,I,History,History,CORE,False
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,J,Sinhala,Sinhala,GROUP_1,True
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,K,Commerc,Commerce,GROUP_1,True
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,L,Tamil Lit,Tamil Literature,GROUP_2,True
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,M,Arab. Lit,Arabic Literature,GROUP_2,True
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,N,Eng. Lit,English Literature,GROUP_2,True
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,O,Art,Art,GROUP_2,True
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,P,Home Sc,Home Science,GROUP_3,True
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,Q,ICT,ICT,GROUP_3,True
+marks_2025_t1.xlsx,2025,1,10A,10,A,OL,R,Agriculture,Agriculture,GROUP_3,True
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,D,Tamil,Tamil,CORE,False
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,E,English,English,CORE,False
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,F,Maths,Mathematics,CORE,False
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,G,Science,Science,CORE,False
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,H,Religion,Religion,CORE,False
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,I,History,History,CORE,False
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,J,Sinhala,Sinhala,GROUP_1,True
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,K,Commerc,Commerce,GROUP_1,True
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,L,Tamil Lit,Tamil Literature,GROUP_2,True
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,M,Arab. Lit,Arabic Literature,GROUP_2,True
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,N,Eng. Lit,English Literature,GROUP_2,True
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,O,Art,Art,GROUP_2,True
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,P,Home Sc,Home Science,GROUP_3,True
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,Q,ICT,ICT,GROUP_3,True
+marks_2025_t1.xlsx,2025,1,10B,10,B,OL,R,Agriculture,Agriculture,GROUP_3,True
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6A,6,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,E,Science,Science,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,I,History,History,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,K,CE,CE,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,N,Art,Art,STANDARD,False
+marks_2025_t2.xlsx,2025,2,6B,6,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7A,7,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,E,Science,Science,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,I,History,History,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,K,CE,CE,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,N,Art,Art,STANDARD,False
+marks_2025_t2.xlsx,2025,2,7B,7,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,E,Science,Science,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,I,History,History,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,K,CE,CE,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,N,Art,Art,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8A,8,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t2.xlsx,2025,2,8B,8,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9A,9,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t2.xlsx,2025,2,9B,9,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,D,Tamil,Tamil,CORE,False
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,E,English,English,CORE,False
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,F,Maths,Mathematics,CORE,False
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,G,Science,Science,CORE,False
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,H,Religion,Religion,CORE,False
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,I,History,History,CORE,False
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,J,Sinhala,Sinhala,GROUP_1,True
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,L,Arab. Lit,Arabic Literature,GROUP_2,True
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,M,Eng. Lit,English Literature,GROUP_2,True
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,N,Art,Art,GROUP_2,True
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,O,ICT,ICT,GROUP_3,True
+marks_2025_t2.xlsx,2025,2,10A,10,A,OL,P,Agriculture,Agriculture,GROUP_3,True
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,D,Tamil,Tamil,CORE,False
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,E,English,English,CORE,False
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,F,Maths,Mathematics,CORE,False
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,G,Science,Science,CORE,False
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,H,Religion,Religion,CORE,False
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,I,History,History,CORE,False
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,J,Sinhala,Sinhala,GROUP_1,True
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,K,Commerce,Commerce,GROUP_1,True
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,L,Tamil Lit,Tamil Literature,GROUP_2,True
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,M,Arab. Lit,Arabic Literature,GROUP_2,True
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,N,Eng. Lit,English Literature,GROUP_2,True
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,O,Art,Art,GROUP_2,True
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,Q,ICT,ICT,GROUP_3,True
+marks_2025_t2.xlsx,2025,2,10B,10,B,OL,R,Agriculture,Agriculture,GROUP_3,True
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6A,6,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,E,Science,Science,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,I,History,History,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,K,CE,CE,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,N,Art,Art,STANDARD,False
+marks_2025_t3.xlsx,2025,3,6B,6,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7A,7,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,E,Science,Science,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,I,History,History,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,K,CE,CE,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,N,Art,Art,STANDARD,False
+marks_2025_t3.xlsx,2025,3,7B,7,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,E,Science,Science,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,I,History,History,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,K,CE,CE,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,N,Art,Art,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8A,8,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t3.xlsx,2025,3,8B,8,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9A,9,A,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,F,Science,Science,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,G,English,English,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,J,History,History,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,L,Art,Art,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,N,CE,CE,STANDARD,False
+marks_2025_t3.xlsx,2025,3,9B,9,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,D,Tamil,Tamil,CORE,False
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,E,English,English,CORE,False
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,F,Maths,Mathematics,CORE,False
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,G,Science,Science,CORE,False
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,H,Religion,Religion,CORE,False
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,I,History,History,CORE,False
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,J,Sinhala,Sinhala,GROUP_1,True
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,L,Arab. Lit,Arabic Literature,GROUP_2,True
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,M,Eng. Lit,English Literature,GROUP_2,True
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,N,Art,Art,GROUP_2,True
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,O,ICT,ICT,GROUP_3,True
+marks_2025_t3.xlsx,2025,3,10A,10,A,OL,P,Agriculture,Agriculture,GROUP_3,True
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,D,Tamil,Tamil,CORE,False
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,E,English,English,CORE,False
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,F,Maths,Mathematics,CORE,False
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,G,Science,Science,CORE,False
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,H,Religion,Religion,CORE,False
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,I,History,History,CORE,False
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,J,Sinhala,Sinhala,GROUP_1,True
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,K,Commerce,Commerce,GROUP_1,True
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,L,Tamil Lit,Tamil Literature,GROUP_2,True
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,M,Arab. Lit,Arabic Literature,GROUP_2,True
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,N,Eng. Lit,English Literature,GROUP_2,True
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,O,Art,Art,GROUP_2,True
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,Q,ICT,ICT,GROUP_3,True
+marks_2025_t3.xlsx,2025,3,10B,10,B,OL,R,Agriculture,Agriculture,GROUP_3,True
+marks_2026_t1.xlsx,2026,1,6A,6,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6A,6,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6A,6,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6A,6,A,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6A,6,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6A,6,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6A,6,A,SECONDARY,J,History,History,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6A,6,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6A,6,A,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6A,6,A,SECONDARY,M,CE,CE,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6B,6,B,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6B,6,B,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6B,6,B,SECONDARY,F,Science,Science,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6B,6,B,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6B,6,B,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6B,6,B,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6B,6,B,SECONDARY,J,History,History,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6B,6,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6B,6,B,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t1.xlsx,2026,1,6B,6,B,SECONDARY,M,CE,CE,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7A,7,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7A,7,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7A,7,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7A,7,A,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7A,7,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7A,7,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7A,7,A,SECONDARY,J,History,History,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7A,7,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7A,7,A,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7A,7,A,SECONDARY,M,CE,CE,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7B,7,B,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7B,7,B,SECONDARY,E,Science,Science,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7B,7,B,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7B,7,B,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7B,7,B,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7B,7,B,SECONDARY,I,History,History,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7B,7,B,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7B,7,B,SECONDARY,K,CE,CE,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7B,7,B,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t1.xlsx,2026,1,7B,7,B,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8A,8,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8A,8,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8A,8,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8A,8,A,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8A,8,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8A,8,A,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8A,8,A,SECONDARY,J,History,History,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8A,8,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8A,8,A,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8A,8,A,SECONDARY,M,CE,CE,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8B,8,B,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8B,8,B,SECONDARY,E,Science,Science,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8B,8,B,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8B,8,B,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8B,8,B,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8B,8,B,SECONDARY,I,History,History,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8B,8,B,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8B,8,B,SECONDARY,K,CE,CE,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8B,8,B,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t1.xlsx,2026,1,8B,8,B,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9A,9,A,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9A,9,A,SECONDARY,E,Science,Science,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9A,9,A,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9A,9,A,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9A,9,A,SECONDARY,H,Religion,Religion,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9A,9,A,SECONDARY,I,History,History,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9A,9,A,SECONDARY,J,Geography,Geography,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9A,9,A,SECONDARY,K,CE,CE,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9A,9,A,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9A,9,A,SECONDARY,M,Sinhala,Sinhala,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9B,9,B,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9B,9,B,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9B,9,B,SECONDARY,F,Science,Science,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9B,9,B,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9B,9,B,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9B,9,B,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9B,9,B,SECONDARY,J,History,History,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9B,9,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9B,9,B,SECONDARY,L,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t1.xlsx,2026,1,9B,9,B,SECONDARY,M,CE,CE,STANDARD,False
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,D,Tamil,Tamil,CORE,False
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,E,English,English,CORE,False
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,F,Maths,Mathematics,CORE,False
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,G,Science,Science,CORE,False
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,H,Religion,Religion,CORE,False
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,I,History,History,CORE,False
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,J,Sinhala,Sinhala,GROUP_1,True
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,K,Commerc,Commerce,GROUP_1,True
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,L,Tamil Lit,Tamil Literature,GROUP_2,True
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,M,Arab. Lit,Arabic Literature,GROUP_2,True
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,N,Eng. Lit,English Literature,GROUP_2,True
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,O,Art,Art,GROUP_2,True
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,Q,ICT,ICT,GROUP_3,True
+marks_2026_t1.xlsx,2026,1,10A,10,A,OL,R,Agriculture,Agriculture,GROUP_3,True
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,D,Tamil,Tamil,CORE,False
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,E,English,English,CORE,False
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,F,Maths,Mathematics,CORE,False
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,G,Science,Science,CORE,False
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,H,Religion,Religion,CORE,False
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,I,History,History,CORE,False
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,J,Sinhala,Sinhala,GROUP_1,True
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,K,Commerc,Commerce,GROUP_1,True
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,L,Tamil Lit,Tamil Literature,GROUP_2,True
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,M,Arab. Lit,Arabic Literature,GROUP_2,True
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,N,Eng. Lit,English Literature,GROUP_2,True
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,O,Art,Art,GROUP_2,True
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,P,Home Sc,Home Science,GROUP_3,True
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,Q,ICT,ICT,GROUP_3,True
+marks_2026_t1.xlsx,2026,1,10B,10,B,OL,R,Agriculture,Agriculture,GROUP_3,True
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,I,Islam,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,J,Saivanery,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,K,History,History,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,L,Geography,Geography,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,M,Art,Art,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,N,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,O,CE,CE,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6A,6,A,SECONDARY,P,ICT,ICT,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,F,Science,Science,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,I,Religion,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,J,History,History,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,L,Art,Art,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,N,CE,CE,STANDARD,False
+marks_2026_t2.xlsx,2026,2,6B,6,B,SECONDARY,O,ICT,ICT,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,I,Islam,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,J,Saivanery,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,K,History,History,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,L,Geography,Geography,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,M,Art,Art,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,N,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,O,CE,CE,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7A,7,A,SECONDARY,P,ICT,ICT,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,E,Science,Science,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,H,Islam,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,I,Saivanery,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,J,History,History,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,L,CE,CE,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,N,Sinhala,Sinhala,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,O,Art,Art,STANDARD,False
+marks_2026_t2.xlsx,2026,2,7B,7,B,SECONDARY,P,ICT,ICT,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,F,Science,Science,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,I,Islam,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,J,Saivanery,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,L,History,History,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,M,Geography,Geography,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,N,Art,Art,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,O,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,P,CE,CE,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8A,8,A,SECONDARY,Q,ICT,ICT,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,E,Science,Science,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,H,Islam,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,I,Saivanery,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,J,History,History,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,L,CE,CE,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,N,Sinhala,Sinhala,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,O,Art,Art,STANDARD,False
+marks_2026_t2.xlsx,2026,2,8B,8,B,SECONDARY,P,ICT,ICT,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,D,Maths,Mathematics,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,E,Science,Science,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,F,Tamil,Tamil,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,H,Islam,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,I,Saivanery,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,J,History,History,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,K,Geography,Geography,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,L,CE,CE,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,M,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,N,Sinhala,Sinhala,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,O,Art,Art,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9A,9,A,SECONDARY,P,ICT,ICT,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,D,Tamil,Tamil,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,E,Maths,Mathematics,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,F,Science,Science,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,G,English,English,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,H,Sinhala,Sinhala,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,I,Islam,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,J,Saivanery,Religion,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,K,History,History,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,L,Geography,Geography,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,M,Art,Art,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,N,Helth & Phy.Ed,Health & Physical Education,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,O,CE,CE,STANDARD,False
+marks_2026_t2.xlsx,2026,2,9B,9,B,SECONDARY,P,ICT,ICT,STANDARD,False
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,D,Tamil,Tamil,CORE,False
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,E,English,English,CORE,False
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,F,Maths,Mathematics,CORE,False
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,G,Science,Science,CORE,False
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,H,Religion,Religion,CORE,False
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,I,History,History,CORE,False
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,J,Sinhala,Sinhala,GROUP_1,True
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,K,Arab. Lit,Arabic Literature,GROUP_2,True
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,L,Eng. Lit,English Literature,GROUP_2,True
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,M,Art,Art,GROUP_2,True
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,O,ICT,ICT,GROUP_3,True
+marks_2026_t2.xlsx,2026,2,10A,10,A,OL,P,Agriculture,Agriculture,GROUP_3,True
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,D,Tamil,Tamil,CORE,False
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,E,English,English,CORE,False
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,F,Maths,Mathematics,CORE,False
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,G,Science,Science,CORE,False
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,H,Islam,Religion,CORE,False
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,I,Saivanery,Religion,CORE,False
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,J,History,History,CORE,False
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,K,Sinhala,Sinhala,GROUP_1,True
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,L,Commerc,Commerce,GROUP_1,True
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,M,Tamil Lit,Tamil Literature,GROUP_2,True
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,N,Arab. Lit,Arabic Literature,GROUP_2,True
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,O,Eng. Lit,English Literature,GROUP_2,True
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,P,Art,Art,GROUP_2,True
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,Q,ICT,ICT,GROUP_3,True
+marks_2026_t2.xlsx,2026,2,10B,10,B,OL,R,Agriculture,Agriculture,GROUP_3,True

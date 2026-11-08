@@ -1,0 +1,4 @@
+dataset_split,forecast_transition_rows,overall_target_rows,overall_unique_students,subject_target_rows,subject_unique_students,subjects_with_targets
+TRAIN,577,573,289,6387,289,17
+VALIDATION,218,217,217,2029,217,17
+FINAL_TEST,268,268,268,2912,268,17
